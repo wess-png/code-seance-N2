@@ -1,0 +1,45 @@
+#email_fieled{
+            
+    color: black;
+    text-align: center;
+    margin:  10px 20px;
+    padding: 10px 20px;
+}   
+#password_fieled{
+    color: black;
+    margin:  10px 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
+#title{
+    text-align: center;
+    border: solid 2px black;
+    margin:  80px 80px;
+    padding: 10px 5px;
+}
+#date_de_naissance{
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+#civilité{
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+
+}
+#gender{
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+#bootcamp_choice{
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+#feedback{
+    text-align: center;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
